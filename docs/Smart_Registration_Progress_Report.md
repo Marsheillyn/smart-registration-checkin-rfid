@@ -9,7 +9,7 @@ Our sub-group is responsible for managing the entry and exit digital tracking fo
 ## 2. What We Have Done So Far
 ---
 - [x] **RFID Hardware Setup:** Wired up the RC522 module to the ESP32 via SPI and tested tag UID detection successfully.
-- [x] ** Flask Backend Server:** Built the core script for our Python Flask server (`server.py`) to listen for incoming check-in requests.
+- [x] **Flask Backend Server:** Built the core script for our Python Flask server (`server.py`) to listen for incoming check-in requests.
 - [x] **Race Condition Guard:** Applied an OS-level lock (`threading.Lock()`) in Python to make sure the local `runners.csv` file doesn't corrupt when hundreds of runners scan their RFID tags at the exact same time during morning registration.
 - [x] **Finisher QR Integration:** Created and generated the final QR code that links directly to our official Google Form data collector.
 
