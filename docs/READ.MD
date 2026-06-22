@@ -2,6 +2,8 @@
 
 This folder contains:
 - System architecture
+<img width="1024" height="768" alt="Image" src="https://github.com/user-attachments/assets/7fdeaa96-cd55-4d12-b659-6aee5c4d4562" />
+
 - Flowcharts
 - RFID circuit diagrams
 <img width="901" height="486" alt="Image" src="https://github.com/user-attachments/assets/06dc37f0-e8bc-4dd0-a982-600dd7450e11" />
