@@ -7,3 +7,5 @@ This folder contains:
 - Hardware photos
 - Testing photos
 - Demo videos
+link video 
+https://drive.google.com/drive/folders/1-nc4lICJ08h5ItKZObW1H3aWBOa-69Fv?usp=drive_link
